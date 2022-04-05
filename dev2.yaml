@@ -1,0 +1,53 @@
+person:
+
+- id:01
+
+  name:Amulya
+
+  designation:DevOps Engineer
+
+  doj:01-02-2022
+
+
+
+- id:02
+
+  name:Deepthi
+
+  designation:DevOps Engineer
+
+  doj:01-02-2022
+
+
+
+-id:03
+
+  name:Sai Kalyan
+
+  designation:DevOps Engineer
+
+  doj:01-02-2022
+
+
+
+-id:04
+
+  name:Alekhya
+
+  designation:DevOps Engineer
+
+  doj:01-02-2022
+
+
+
+department:
+
+- deptno:01
+
+  deptname:hr
+
+
+
+- deptno:02
+
+  deptname:it
